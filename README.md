@@ -7,20 +7,21 @@ or server side to provide authentication and authorization services.
 See RFC 4422 for more information.
 
 The latest version is available at:
-ftp://ftp.cyrusimap.org/cyrus-sasl/
+https://github.com/cyrusimap/cyrus-sasl/releases
 
 There's a mailing list for Cyrus SASL.  Subscribe by sending a message
 to majordomo@lists.andrew.cmu.edu with the body "subscribe
 cyrus-sasl". The mailing list is available via anonymous IMAP at
 imap://cyrus.andrew.cmu.edu/archive.cyrus-sasl or via the web at
-http://asg.web.cmu.edu/archive/mailbox.php3?mailbox=archive.cyrus-sasl.
+https://lists.andrew.cmu.edu/pipermail/cyrus-sasl/.
 
 If you are looking to port SASLv1 applications to SASLv2, please see
 doc/appconvert.html
 
-Bugs can be searched/reported [here](https://github.com/cyrusimap/cyrus-sasl/issues).
+Bugs can be searched/reported [on GitHub](https://github.com/cyrusimap/cyrus-sasl/issues),
+but please also notify the mailing list.
 
 ## DOCUMENTATION
 
-Please see doc/index.html for detailed documentation.
+Please see doc/legacy/index.html for detailed documentation.
 
